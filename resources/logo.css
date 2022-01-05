@@ -1,0 +1,7 @@
+ImageView.logoMenu{
+    -fx-image: url("logotCHuMenu.png");
+}
+
+ImageView.logoTicket{
+    -fx-image: "imageTicket.png";
+}

@@ -1,0 +1,8 @@
+
+
+.root{
+
+-fx-background-image:url("CARTE_DRAPEAU_SUISSE.png");
+-fx-background-repeat: no-repeat;
+-fx-background-size:stretch;
+}

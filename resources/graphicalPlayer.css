@@ -1,0 +1,9 @@
+/* Graphical Player */
+
+.toggle-button-Draw {
+    -fx-graphic: url('pen.png');
+}
+
+.toggle-button-Gomme {
+    -fx-graphic: url('gomme.png');
+}
